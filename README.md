@@ -1,4 +1,10 @@
-# Learn Python The Hard Way
+# Learn Python The MORIMORI Way
+
+stolen code from another repo so i can learnnnnnn python baby (and git too)
+
+
+
+
 Welcome to the 1st Edition of Learn Python 3 the Hard Way which teaches Python 3. Apparently this is a new edition and not the 4th edition because it teaches Python 3. You can visit the companion site to the book at [http://learnpythonthehardway.org/](http://learnpythonthehardway.org/) where you can purchase digital downloads and paper versions of the book. The free HTML version of the book is available at [http://learnpythonthehardway.org/python3/](http://learnpythonthehardway.org/python3/).
 ## Table Of Contents
 * [Preface](https://learnpythonthehardway.org/python3/preface.html)
